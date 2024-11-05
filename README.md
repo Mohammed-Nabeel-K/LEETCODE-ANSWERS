@@ -17,5 +17,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0619-biggest-single-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0619-biggest-single-number) |
 | [1390-average-selling-price](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1390-average-selling-price) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1801-average-time-of-process-per-machine](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
