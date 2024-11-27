@@ -5,8 +5,8 @@ public class Solution {
 
         Array.Reverse(words);
         
-        string reversedSentence = string.Join(" ", words);
+        string rev = string.Join(" ", words);
 
-        return reversedSentence;
+        return rev;
     }
 }
