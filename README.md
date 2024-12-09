@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0151-reverse-words-in-a-string) |
 ## Number Theory
 |  |
