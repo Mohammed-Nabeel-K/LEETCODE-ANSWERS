@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0619-biggest-single-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0619-biggest-single-number) |
 | [1390-average-selling-price](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1390-average-selling-price) |
