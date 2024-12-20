@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0069-sqrtx) |
 | [2491-smallest-even-multiple](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2491-smallest-even-multiple) |
+| [2556-convert-the-temperature](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2556-convert-the-temperature) |
 ## Binary Search
 |  |
 | ------- |
