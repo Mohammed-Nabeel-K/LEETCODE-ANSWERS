@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0268-missing-number) |
