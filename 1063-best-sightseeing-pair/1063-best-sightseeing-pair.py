@@ -1,9 +1,5 @@
-class Solution(object):
-    def maxScoreSightseeingPair(self, values):
-        """
-        :type values: List[int]
-        :rtype: int
-        """
+class Solution:
+    def maxScoreSightseeingPair(self, values: List[int]) -> int:
         maxScope = 0
         maxLeft = values[0]
         for i in range(1,len(values)):
