@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0268-missing-number) |
+| [0605-can-place-flowers](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0605-can-place-flowers) |
 | [1063-best-sightseeing-pair](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1063-best-sightseeing-pair) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1063-best-sightseeing-pair](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1063-best-sightseeing-pair) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
