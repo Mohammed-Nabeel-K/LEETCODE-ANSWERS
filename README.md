@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0268-missing-number) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2491-smallest-even-multiple](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2556-convert-the-temperature) |
 ## Binary Search
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0151-reverse-words-in-a-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3379-score-of-a-string](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3379-score-of-a-string) |
 ## Trie
 |  |
