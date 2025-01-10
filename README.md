@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0242-valid-anagram) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3379-score-of-a-string](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3379-score-of-a-string) |
 ## Trie
