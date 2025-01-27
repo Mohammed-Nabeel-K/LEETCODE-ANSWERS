@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1063-best-sightseeing-pair) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2331-intersection-of-multiple-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2331-intersection-of-multiple-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2331-intersection-of-multiple-arrays) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0169-majority-element) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2331-intersection-of-multiple-arrays) |
 ## String
 |  |
 | ------- |
