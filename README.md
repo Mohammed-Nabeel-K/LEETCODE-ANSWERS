@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0605-can-place-flowers) |
 | [1063-best-sightseeing-pair](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1063-best-sightseeing-pair) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0268-missing-number) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
