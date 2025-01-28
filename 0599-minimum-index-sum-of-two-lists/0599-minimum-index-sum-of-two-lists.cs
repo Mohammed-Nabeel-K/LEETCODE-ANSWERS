@@ -3,6 +3,11 @@ public class Solution {
         Dictionary<string,int> dict = new Dictionary<string,int>();
         int min = int.MaxValue;
 
+        Dictionary<string, int> list1Index = new Dictionary<string, int>();
+        for (int i = 0; i < list1.Length; i++) {
+            list1Index[list1[i]] = i;
+        }
+
         Dictionary<string, int> list2Index = new Dictionary<string, int>();
         for (int i = 0; i < list2.Length; i++) {
             list2Index[list2[i]] = i;
@@ -10,7 +15,7 @@ public class Solution {
 
         foreach(string i in list1){
             if(list2Index.ContainsKey(i)){
-                int idx = Array.IndexOf(list1,i)+ list2Index[i];
+                int idx = list1Index[i]+ list2Index[i];
                 dict.Add(i,idx);
                 if(min>idx){
                     min = idx;
