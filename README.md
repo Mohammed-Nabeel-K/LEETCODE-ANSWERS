@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0605-can-place-flowers) |
 | [1063-best-sightseeing-pair](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1063-best-sightseeing-pair) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2331-intersection-of-multiple-arrays) |
 ## Divide and Conquer
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0242-valid-anagram) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3379-score-of-a-string](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3379-score-of-a-string) |
 ## Trie
