@@ -3,9 +3,7 @@ public class Solution {
         Dictionary<string,int> dict = new Dictionary<string,int>();
         foreach(string i in list1){
             if(list2.Contains(i)){
-                int idx1 = Array.IndexOf(list1,i);
-                int idx2 = Array.IndexOf(list2,i);
-                int idx = idx1+idx2;
+                int idx = Array.IndexOf(list1,i)+ Array.IndexOf(list2,i);
                 dict.Add(i,idx);
                 
             }
