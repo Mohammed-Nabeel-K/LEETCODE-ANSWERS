@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2491-smallest-even-multiple](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2556-convert-the-temperature) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3379-score-of-a-string](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3379-score-of-a-string) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Trie
 |  |
 | ------- |
