@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0605-can-place-flowers) |
+| [0816-design-hashset](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0816-design-hashset) |
 | [1063-best-sightseeing-pair](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1063-best-sightseeing-pair) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0816-design-hashset](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0816-design-hashset) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2331-intersection-of-multiple-arrays) |
 ## Divide and Conquer
@@ -143,4 +145,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0219-contains-duplicate-ii) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0816-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
