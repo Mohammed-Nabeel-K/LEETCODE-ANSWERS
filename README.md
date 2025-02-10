@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3379-score-of-a-string](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3447-clear-digits) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Trie
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0258-add-digits) |
+| [3447-clear-digits](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
