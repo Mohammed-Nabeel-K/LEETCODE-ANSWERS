@@ -1,7 +1,6 @@
 public class Solution {
     public string ClearDigits(string s) {
-        char[] arr = s.ToCharArray();
-        List<char> charList = arr.ToList();
+        List<char> charList = s.ToList();
         for (int i = 0; i<charList.Count; i++){
             if(char.IsDigit(charList[i])){
                 charList.RemoveAt(i);
