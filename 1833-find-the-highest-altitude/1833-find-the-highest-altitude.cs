@@ -1,12 +1,13 @@
 public class Solution {
     public int LargestAltitude(int[] gain) {
         int alt = 0;
-        List<int> altitudes = new List<int>();
+        int max = 0;
         foreach(int i in gain){
-            altitudes.Add(alt);
             alt+=i;
+            if(alt>max){
+                max = alt;
+            }
         }
-         altitudes.Add(alt);
-        return altitudes.Max();
+        return max;
     }
 }
