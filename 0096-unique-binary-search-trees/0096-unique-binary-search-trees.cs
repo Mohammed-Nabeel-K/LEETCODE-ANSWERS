@@ -1,9 +1,9 @@
 public class Solution {
     public int NumTrees(int n) {
-        return (int)(Factorial(2 * n) / (Factorial(n + 1) * Factorial(n)));
-    }
-    public BigInteger Factorial(int i){
-            if(i == 0 || i == 1) return 1;
-            return i*Factorial(i-1);
+        long result = 1;
+        for (int i = 0; i < n; i++) {
+            result = result * (2 * (2 * i + 1)) / (i + 2);
+        }
+        return (int)result;
     }
 }
