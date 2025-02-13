@@ -172,9 +172,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0094-binary-tree-inorder-traversal) |
 | [3447-clear-digits](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1833-find-the-highest-altitude) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
