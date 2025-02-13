@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0119-pascals-triangle-ii) |
 | [1063-best-sightseeing-pair](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1063-best-sightseeing-pair) |
 ## Greedy
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0222-count-complete-tree-nodes) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0222-count-complete-tree-nodes) |
@@ -205,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
