@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2491-smallest-even-multiple](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2556-convert-the-temperature) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1899-count-items-matching-a-rule) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0119-pascals-triangle-ii) |
 | [1063-best-sightseeing-pair](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1063-best-sightseeing-pair) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1833-find-the-highest-altitude) |
 ## Tree
 |  |
