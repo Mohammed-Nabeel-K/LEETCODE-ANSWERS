@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2491-smallest-even-multiple](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2556-convert-the-temperature) |
