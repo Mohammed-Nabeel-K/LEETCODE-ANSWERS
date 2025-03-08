@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1899-count-items-matching-a-rule) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3379-score-of-a-string](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3447-clear-digits) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0219-contains-duplicate-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Linked List
 |  |
 | ------- |
