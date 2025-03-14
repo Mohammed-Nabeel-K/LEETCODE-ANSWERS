@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0374-guess-number-higher-or-lower) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Database
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0816-design-hashset) |
 | [1063-best-sightseeing-pair](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1063-best-sightseeing-pair) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
