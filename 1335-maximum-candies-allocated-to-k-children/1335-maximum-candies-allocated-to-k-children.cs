@@ -24,7 +24,7 @@ public class Solution {
         }
         
         }
-       return (int)right;
+       return right;
         
     }
 }
