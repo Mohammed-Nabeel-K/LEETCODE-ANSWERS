@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1899-count-items-matching-a-rule) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2331-intersection-of-multiple-arrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0268-missing-number) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0219-contains-duplicate-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1833-find-the-highest-altitude) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Tree
 |  |
 | ------- |
@@ -223,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0096-unique-binary-search-trees) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
