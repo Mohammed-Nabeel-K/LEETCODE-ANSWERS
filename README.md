@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1283-reformat-date](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1283-reformat-date) |
+| [1666-make-the-string-great](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1666-make-the-string-great) |
 | [1899-count-items-matching-a-rule](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1899-count-items-matching-a-rule) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/0144-binary-tree-preorder-traversal) |
+| [1666-make-the-string-great](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/1666-make-the-string-great) |
 | [3447-clear-digits](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
