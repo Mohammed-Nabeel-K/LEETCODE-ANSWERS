@@ -1,17 +1,24 @@
 public class Solution {
     public int MinimumOperations(int[] nums) {
-        var numsList = new List<int>(nums);
-        int count = 0;
-        while (numsList.Count > 0) {
-            if (numsList.Count == numsList.Distinct().Count()) {
-                break;
+        int n = nums.Length;
+        int start = 0;
+        int ops = 0;
+
+        while (start < n) {
+            var seen = new HashSet<int>();
+            bool hasDuplicate = false;
+            for (int i = start; i < n; i++) {
+                if (!seen.Add(nums[i])) {
+                    hasDuplicate = true;
+                    break;
+                }
             }
-            int removeCount = Math.Min(3, numsList.Count);
-            numsList.RemoveRange(0, removeCount);
-            count++;
+
+            if (!hasDuplicate) break;
+            start += 3;
+            ops++;
         }
 
-       
-        return count;
+        return ops;
     }
 }
