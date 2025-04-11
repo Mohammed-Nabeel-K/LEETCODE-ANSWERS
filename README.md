@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2556-convert-the-temperature) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2998-count-symmetric-integers) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Binary Search
 |  |
@@ -239,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Mohammed-Nabeel-K/LEETCODE-ANSWERS/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
